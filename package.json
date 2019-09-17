@@ -1,0 +1,16 @@
+{
+  "name": "fdash",
+  "version": "0.0.0",
+  "description": "A faster, leaner drop-in replacement for lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "12.7.5",
+    "lerna": "^3.16.4",
+    "typescript": "3.6.3"
+  }
+}

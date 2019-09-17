@@ -1,0 +1,38 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "moduleResolution": "node",
+    "lib": ["es2019"],
+    "target": "es2018",
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "alwaysStrict": true,
+    "declaration": false,
+    "downlevelIteration": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": false,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": false,
+    "isolatedModules": false,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": false,
+    "noImplicitThis": false,
+    "noLib": true,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "pretty": true,
+    "resolveJsonModule": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "strict": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "**/node_modules/*"
+  ]
+}
